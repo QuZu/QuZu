@@ -1,10 +1,10 @@
 <h1 align="left"> Hi there, I'm Enis! 👋 </h1>
 <h4 align="left">A passionate Junior Computer Science and Engineering Student from Turkey</h4>
 
-I am a junior computer science and engineering student who is a competitive data structure enthusiast at **Sabanci University**. I have had a strong math background since I studied at the math Olympiads. I worked with my friends in the courses I took at the university that required research and teamwork skills and I completed quality projects with them. My main focuses in computer science and engineering is **software development** in ML and **Data Science** fields. I have experience as a full stack developer in React.JS and Node.JS, as well as HTML, CSS and **JavaScript** in Web. Besides **Python** and web development, I have experience in advanced object-oriented programming in the **C++** language.
+I am a junior computer science and engineering student who is a competitive data structure enthusiast at **Sabanci University**. I have had a strong math background since I studied at the math Olympiads. I worked with my friends in the courses I took at the university that required research and teamwork skills and I completed quality projects with them. My main focuses in computer science and engineering is **software development** in **Web** and **Data Science** fields. I have experience as a **full stack developer** in React.JS and Node.JS, as well as HTML, CSS and **JavaScript** in Web. Besides **Python** and web development, I have experience in advanced object-oriented programming in the **C++** language.
  
 * 🔭 I’m currently studying Computer Science and Engineering in **Uppsala University** as a Exchange Student.
-* 🌱 I’m currently learning new technologies for Software Engineering.
+* 🌱 I’m currently learning new technologies for **Software Engineering**.
 <h3 align="left">📈 My Github Stats:</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuZu&show_icons=true)
