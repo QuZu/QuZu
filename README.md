@@ -8,7 +8,7 @@ I am a junior computer science and engineering student who is a competitive data
 * 🌱 I’m currently learning new technologies for **Software Engineering**.
 <h3 align="left">📈 My Github Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuZu&show_icons=true)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuZu&show_icons=true) --->
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enis-mert-kuzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enis-mert-kuzu" height="30" width="40" /></a>
