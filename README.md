@@ -7,7 +7,7 @@ I'm currently a Master's student in Computer Science at **Technische Universitä
 My expertise spans across critical areas of Computer Science, with a special focus on **Software Development** in the realms of **Databases** and **AI & Data Science**. I bring to the table robust experience as a **Full Stack Developer**, proficient in technologies like React.JS, Node.JS, HTML, CSS, and JavaScript. Additionally, I am well-versed in **Python** and have a strong command of advanced object-oriented programming in **C++**.
  
 🎓 **Educational Background:**
-- MSc in Computer Science and Engineering, Technische Universität Berlin (In Progress)
+- MSc in Computer Science (Data Science and Engineering), Technische Universität Berlin (In Progress)
 - BSc in Computer Science and Engineering, Sabancı University
 - Exchange Program in Computer Science and Engineering, Uppsala University
 
