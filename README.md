@@ -1,11 +1,23 @@
 <h1 align="left"> Hi there, I'm Enis! 👋 </h1>
 <h4 align="left">A passionate Junior Computer Science and Engineering Student from Turkey</h4>
 
-I am a junior computer science and engineering student who is a competitive data structure enthusiast at **Sabanci University**. I have had a strong math background since I studied at the math Olympiads. I worked with my friends in the courses I took at the university that required research and teamwork skills and I completed quality projects with them. My main focuses in computer science and engineering is **software development** in **Web** and **Data Science** fields. I have experience as a **full stack developer** in React.JS and Node.JS, as well as HTML, CSS and **JavaScript** in Web. Besides **Python** and web development, I have experience in advanced object-oriented programming in the **C++** language.
+🚀 **About Me:**
+
+I'm currently a Master's student in Computer Science at **Technische Universität Berlin**, where I dive deep into competitive data structure challenges. My academic journey is marked by collaborative projects that have honed my research abilities and teamwork skills, leading to the completion of numerous impactful projects.
+My expertise spans across critical areas of Computer Science, with a special focus on **Software Development** in the realms of **Databases** and **AI & Data Science**. I bring to the table robust experience as a **Full Stack Developer**, proficient in technologies like React.JS, Node.JS, HTML, CSS, and JavaScript. Additionally, I am well-versed in **Python** and have a strong command of advanced object-oriented programming in **C++**.
  
-* 🌱 I’m currently studying Computer Science and Engineering in **Sabancı University** 
-* 🔭 I studied Computer Science and Engineering in **Uppsala University** as an Exchange Student.
-* 🌱 I’m currently learning new technologies for **Software Engineering**.
+🎓 **Educational Background:**
+- MSc in Computer Science and Engineering, Technische Universität Berlin (In Progress)
+- BSc in Computer Science and Engineering, Sabancı University
+- Exchange Program in Computer Science and Engineering, Uppsala University
+
+🌟 **Interests:**
+- As a former math Olympiad participant, I have a robust mathematical foundation which I apply extensively in algorithm design and problem solving.
+- I am deeply passionate about both Database and AI technologies, thriving in roles requiring architectural thinking and detailed implementation.
+
+🔍 **Current Focus:**
+- Currently, I am advancing my knowledge in software engineering technologies and exploring new tools and practices that enhance efficiency and effectiveness in development projects.
+- I am continually learning about new technologies in software engineering to stay updated with the latest trends and best practices.
 <h3 align="left">📈 My Github Stats:</h3>
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuZu&show_icons=true) --->
