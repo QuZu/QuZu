@@ -1,5 +1,5 @@
 <h1 align="left"> Hi there, I'm Enis! 👋 </h1>
-<h4 align="left">A passionate Junior Computer Science and Engineering Student from Turkey</h4>
+<h4 align="left">A Berlin-Based Tech Enthusiast Pursuing M.Sc. in Computer Science at <a href="https://www.tu.berlin/en/" target="_blank">TUB</a></h4>
 
 🚀 **About Me:**
 
