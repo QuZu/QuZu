@@ -4,7 +4,7 @@
 🚀 **About Me:**
 
 I'm currently a Master's student in Computer Science at **Technische Universität Berlin**, where I dive deep into competitive data structure challenges. My academic journey is marked by collaborative projects that have honed my research abilities and teamwork skills, leading to the completion of numerous impactful projects.
-My expertise spans across critical areas of Computer Science, with a special focus on **Software Development** in the realms of **Databases** and **AI & Data Science**. I bring to the table robust experience as a **Full Stack Developer**, proficient in technologies like React.JS, Node.JS, HTML, CSS, and JavaScript. Additionally, I am well-versed in **Python** and have a strong command of advanced object-oriented programming in **C++**.
+My expertise spans across critical areas of Computer Science, with a special focus on **Software Development** in the realms of **Databases** and **AI & Data Science**. My background combines **AI engineering, backend development, and research**, with hands-on experience building recommendation systems, and data-driven applications. I enjoy solving problems where system design, data constraints, and AI intersect. Additionally, I am well-versed in **Python** and have a strong command of advanced object-oriented programming in **C++**.
  
 🎓 **Educational Background:**
 - MSc in Computer Science (Data Science and Engineering), Technische Universität Berlin (In Progress)
@@ -18,7 +18,13 @@ My expertise spans across critical areas of Computer Science, with a special foc
 🔍 **Current Focus:**
 - Currently, I am advancing my knowledge in software engineering technologies and exploring new tools and practices that enhance efficiency and effectiveness in development projects.
 - I am continually learning about new technologies in software engineering to stay updated with the latest trends and best practices.
-<h3 align="left">📈 My Github Stats:</h3>
+
+🛠 **Tech Stack**
+
+**Languages:** Python, C++,TypeScript, JavaScript  
+**AI & Agents:** LangChain, LangGraph, AutoGen, OpenAI APIs  
+**Backend & Infra:** FastAPI, Docker, Kubernetes, AWS  
+**Data:** Pandas, SQL, ETL  
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuZu&show_icons=true) --->
 <h3 align="left">📫 How to reach me:</h3>
